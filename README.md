@@ -1,6 +1,6 @@
 # Simple-Neural-Network
 Simple neural network and training it using the MNIST dataset
-This python code shows how to build, train, and evaluate a simple neural network model for classifying handwritten digits from the MNIST dataset using TensorFlow and Keras.
+This python code shows how to build, train, and evaluate a simple neural network model for classifying handwritten digits from the MNIST dataset using TensorFlow and Keras. The code demonstrates the complete process of loading the MNIST dataset, building a simple neural network model for digit classification, training the model on the dataset, and evaluating its accuracy on a separate test dataset. The neural network uses fully connected layers to learn patterns and relationships in the image data, and its performance is measured by its accuracy in correctly classifying the test digits.
 
 # Import necessary libraries:
 
